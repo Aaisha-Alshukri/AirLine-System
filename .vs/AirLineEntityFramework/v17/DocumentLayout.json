@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|c:\\users\\lenovof\\desktop\\makeen\\vs\\airlineentityframework\\airlineentityframework\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|solutionrelative:airlineentityframework\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|c:\\users\\lenovof\\desktop\\makeen\\vs\\airlineentityframework\\airlineentityframework\\migrations\\20250511202003_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|solutionrelative:airlineentityframework\\migrations\\20250511202003_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|c:\\users\\lenovof\\desktop\\makeen\\vs\\airlineentityframework\\airlineentityframework\\model\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|solutionrelative:airlineentityframework\\model\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|c:\\users\\lenovof\\desktop\\makeen\\vs\\airlineentityframework\\airlineentityframework\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|solutionrelative:airlineentityframework\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|c:\\users\\lenovof\\desktop\\makeen\\vs\\airlineentityframework\\airlineentityframework\\model\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|solutionrelative:airlineentityframework\\model\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|c:\\users\\lenovof\\desktop\\makeen\\vs\\airlineentityframework\\airlineentityframework\\model\\securitycheckpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|solutionrelative:airlineentityframework\\model\\securitycheckpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|c:\\users\\lenovof\\desktop\\makeen\\vs\\airlineentityframework\\airlineentityframework\\model\\baggage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|solutionrelative:airlineentityframework\\model\\baggage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|c:\\users\\lenovof\\desktop\\makeen\\vs\\airlineentityframework\\airlineentityframework\\model\\airline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|solutionrelative:airlineentityframework\\model\\airline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|c:\\users\\lenovof\\desktop\\makeen\\vs\\airlineentityframework\\airlineentityframework\\model\\gate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|solutionrelative:airlineentityframework\\model\\gate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|c:\\users\\lenovof\\desktop\\makeen\\vs\\airlineentityframework\\airlineentityframework\\model\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|solutionrelative:airlineentityframework\\model\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|c:\\users\\lenovof\\desktop\\makeen\\vs\\airlineentityframework\\airlineentityframework\\model\\airportofficer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|solutionrelative:airlineentityframework\\model\\airportofficer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|c:\\users\\lenovof\\desktop\\makeen\\vs\\airlineentityframework\\airlineentityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|solutionrelative:airlineentityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|c:\\users\\lenovof\\desktop\\makeen\\vs\\airlineentityframework\\airlineentityframework\\model\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|solutionrelative:airlineentityframework\\model\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|c:\\users\\lenovof\\desktop\\makeen\\vs\\airlineentityframework\\airlineentityframework\\airlineentityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7DAAC85-9A50-4611-8A49-E383E2759B93}|AirLineEntityFramework\\AirLineEntityFramework.csproj|solutionrelative:airlineentityframework\\airlineentityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AirLineEntityFramework\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "AirLineEntityFramework\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:21:23.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250511202003_Initial migration.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Migrations\\20250511202003_Initial migration.cs",
+              "RelativeDocumentMoniker": "AirLineEntityFramework\\Migrations\\20250511202003_Initial migration.cs",
+              "ToolTip": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Migrations\\20250511202003_Initial migration.cs",
+              "RelativeToolTip": "AirLineEntityFramework\\Migrations\\20250511202003_Initial migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:20:03.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Terminal.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Model\\Terminal.cs",
+              "RelativeDocumentMoniker": "AirLineEntityFramework\\Model\\Terminal.cs",
+              "ToolTip": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Model\\Terminal.cs",
+              "RelativeToolTip": "AirLineEntityFramework\\Model\\Terminal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:16:16.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SecurityCheckpoint.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Model\\SecurityCheckpoint.cs",
+              "RelativeDocumentMoniker": "AirLineEntityFramework\\Model\\SecurityCheckpoint.cs",
+              "ToolTip": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Model\\SecurityCheckpoint.cs",
+              "RelativeToolTip": "AirLineEntityFramework\\Model\\SecurityCheckpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:12:35.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Baggage.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Model\\Baggage.cs",
+              "RelativeDocumentMoniker": "AirLineEntityFramework\\Model\\Baggage.cs",
+              "ToolTip": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Model\\Baggage.cs",
+              "RelativeToolTip": "AirLineEntityFramework\\Model\\Baggage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:10:41.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Model\\Passenger.cs",
+              "RelativeDocumentMoniker": "AirLineEntityFramework\\Model\\Passenger.cs",
+              "ToolTip": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Model\\Passenger.cs",
+              "RelativeToolTip": "AirLineEntityFramework\\Model\\Passenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:07:28.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Gate.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Model\\Gate.cs",
+              "RelativeDocumentMoniker": "AirLineEntityFramework\\Model\\Gate.cs",
+              "ToolTip": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Model\\Gate.cs",
+              "RelativeToolTip": "AirLineEntityFramework\\Model\\Gate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:05:17.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Model\\Flight.cs",
+              "RelativeDocumentMoniker": "AirLineEntityFramework\\Model\\Flight.cs",
+              "ToolTip": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Model\\Flight.cs",
+              "RelativeToolTip": "AirLineEntityFramework\\Model\\Flight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:57:17.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AirLine.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Model\\AirLine.cs",
+              "RelativeDocumentMoniker": "AirLineEntityFramework\\Model\\AirLine.cs",
+              "ToolTip": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Model\\AirLine.cs",
+              "RelativeToolTip": "AirLineEntityFramework\\Model\\AirLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:51:09.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AirLineEntityFramework\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AirLineEntityFramework\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:25:56.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AirportOfficer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Model\\AirportOfficer.cs",
+              "RelativeDocumentMoniker": "AirLineEntityFramework\\Model\\AirportOfficer.cs",
+              "ToolTip": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Model\\AirportOfficer.cs",
+              "RelativeToolTip": "AirLineEntityFramework\\Model\\AirportOfficer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:53:42.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AirPort.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Model\\AirPort.cs",
+              "RelativeDocumentMoniker": "AirLineEntityFramework\\Model\\AirPort.cs",
+              "ToolTip": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Model\\AirPort.cs",
+              "RelativeToolTip": "AirLineEntityFramework\\Model\\AirPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:30:34.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AirLineEntityFramework",
+              "DocumentMoniker": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\AirLineEntityFramework.csproj",
+              "RelativeDocumentMoniker": "AirLineEntityFramework\\AirLineEntityFramework.csproj",
+              "ToolTip": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\AirLineEntityFramework.csproj",
+              "RelativeToolTip": "AirLineEntityFramework\\AirLineEntityFramework.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-11T19:25:18.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Program.cs",
+              "RelativeDocumentMoniker": "AirLineEntityFramework\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVOf\\Desktop\\Makeen\\VS\\AirLineEntityFramework\\AirLineEntityFramework\\Program.cs",
+              "RelativeToolTip": "AirLineEntityFramework\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:25:14.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
